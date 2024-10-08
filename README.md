@@ -1,0 +1,1 @@
+The code for the paper: "Robust Feature Learning for Multi-Index Models in High Dimensions". To reproduce the figure in the paper, use the `generate_paper_figure.ipynb` notebook. You can run individualized experiments with different settings using `general_experiment.py`.
